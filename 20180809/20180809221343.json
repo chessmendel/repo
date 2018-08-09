@@ -1,0 +1,5 @@
+{"dt":"20180809221341","t":"BeginBattleEvent","d":{"player1Name":"Akzwar","player2Name":"","roundTime":10.0}}
+{"dt":"20180809223408","t":"BeginBattleEvent","d":{"player1Name":"Akzwar","player2Name":"test","roundTime":10.0}}
+{"dt":"20180809224137","t":"BeginBattleEvent","d":{"player1Name":"Akzwar","player2Name":"test","roundTime":10.0}}
+{"dt":"20180809224138","t":"BeginBattleEvent","d":{"player1Name":"test","player2Name":"Akzwar","roundTime":10.0}}
+{"dt":"20180809224145","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":4,"y":1},"to":{"x":4,"y":3},"promotion":0}}
