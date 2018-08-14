@@ -1,0 +1,4 @@
+{"dt":"20180814123924","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":64,"price":1}}
+{"dt":"20180814123933","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":8,"price":1}}
+{"dt":"20180814123939","t":"BreedingEvent","d":{"piece1":3,"piece2":2,"pieceResult":7,"breedingChance":75,"userRoll":35,"price":1}}
+{"dt":"20180814123940","t":"TestEventType","d":{}}
