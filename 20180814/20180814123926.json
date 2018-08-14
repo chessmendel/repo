@@ -1,0 +1,9 @@
+{"dt":"20180814123924","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":64,"price":1}}
+{"dt":"20180814123933","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":8,"price":1}}
+{"dt":"20180814123939","t":"BreedingEvent","d":{"piece1":3,"piece2":2,"pieceResult":7,"breedingChance":75,"userRoll":35,"price":1}}
+{"dt":"20180814123940","t":"TestEventType","d":{}}
+{"dt":"20180814130050","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":70,"price":1}}
+{"dt":"20180814130058","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":0,"breedingChance":75,"userRoll":84,"price":1}}
+{"dt":"20180814130132","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":40,"price":1}}
+{"dt":"20180814130138","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":0,"breedingChance":75,"userRoll":89,"price":1}}
+{"dt":"20180814130202","t":"BreedingEvent","d":{"piece1":1,"piece2":4,"pieceResult":9,"breedingChance":75,"userRoll":37,"price":1}}
