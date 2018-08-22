@@ -1,0 +1,17 @@
+{"dt":"20180821132948","t":"BeginBattleEvent","d":{"player1Name":"Oleg","player2Name":"Akzwar","roundTime":10.0}}
+{"dt":"20180821132948","t":"BeginBattleEvent","d":{"player1Name":"Akzwar","player2Name":"Oleg","roundTime":10.0}}
+{"dt":"20180821132951","t":"ChessboardEvent","d":{"chessboardState":"(0,0):ROOK;(0,1):PAWN;(0,2):NONE;(0,3):NONE;(0,4):NONE;(0,5):NONE;(0,6):NONE;(0,7):NONE;(1,0):KNIGHT;(1,1):PAWN;(1,2):NONE;(1,3):NONE;(1,4):NONE;(1,5):NONE;(1,6):NONE;(1,7):NONE;(2,0):BISHOP;(2,1):PAWN;(2,2):NONE;(2,3):NONE;(2,4):NONE;(2,5):NONE;(2,6):NONE;(2,7):NONE;(3,0):QUEEN;(3,1):PAWN;(3,2):NONE;(3,3):NONE;(3,4):NONE;(3,5):NONE;(3,6):NONE;(3,7):NONE;(4,0):KING;(4,1):PAWN;(4,2):NONE;(4,3):NONE;(4,4):NONE;(4,5):NONE;(4,6):NONE;(4,7):NONE;(5,0):BISHOP;(5,1):PAWN;(5,2):NONE;(5,3):NONE;(5,4):NONE;(5,5):NONE;(5,6):NONE;(5,7):NONE;(6,0):KNIGHT;(6,1):PAWN;(6,2):NONE;(6,3):NONE;(6,4):NONE;(6,5):NONE;(6,6):NONE;(6,7):NONE;(7,0):ROOK;(7,1):PAWN;(7,2):NONE;(7,3):NONE;(7,4):NONE;(7,5):NONE;(7,6):NONE;(7,7):NONE;"}}
+{"dt":"20180821132951","t":"ChessboardEvent","d":{"chessboardState":"(0,0):ROOK;(0,1):PAWN;(0,2):NONE;(0,3):NONE;(0,4):NONE;(0,5):NONE;(0,6):NONE;(0,7):NONE;(1,0):KNIGHT;(1,1):PAWN;(1,2):NONE;(1,3):NONE;(1,4):NONE;(1,5):NONE;(1,6):NONE;(1,7):NONE;(2,0):BISHOP;(2,1):PAWN;(2,2):NONE;(2,3):NONE;(2,4):NONE;(2,5):NONE;(2,6):NONE;(2,7):NONE;(3,0):KING;(3,1):PAWN;(3,2):NONE;(3,3):NONE;(3,4):NONE;(3,5):NONE;(3,6):NONE;(3,7):NONE;(4,0):QUEEN;(4,1):PAWN;(4,2):NONE;(4,3):NONE;(4,4):NONE;(4,5):NONE;(4,6):NONE;(4,7):NONE;(5,0):BISHOP;(5,1):PAWN;(5,2):NONE;(5,3):NONE;(5,4):NONE;(5,5):NONE;(5,6):NONE;(5,7):NONE;(6,0):KNIGHT;(6,1):PAWN;(6,2):NONE;(6,3):NONE;(6,4):NONE;(6,5):NONE;(6,6):NONE;(6,7):NONE;(7,0):ROOK;(7,1):PAWN;(7,2):NONE;(7,3):NONE;(7,4):NONE;(7,5):NONE;(7,6):NONE;(7,7):NONE;"}}
+{"dt":"20180821132957","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":4,"y":1},"to":{"x":4,"y":3},"promotion":0}}
+{"dt":"20180821132959","t":"PlayerMoveEvent","d":{"playerName":"Oleg","from":{"x":1,"y":1},"to":{"x":1,"y":3},"promotion":0}}
+{"dt":"20180821133003","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":1,"y":1},"to":{"x":1,"y":3},"promotion":0}}
+{"dt":"20180821133004","t":"PlayerMoveEvent","d":{"playerName":"Oleg","from":{"x":1,"y":3},"to":{"x":1,"y":4},"promotion":0}}
+{"dt":"20180821133010","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":7,"y":1},"to":{"x":7,"y":2},"promotion":0}}
+{"dt":"20180821133012","t":"PlayerMoveEvent","d":{"playerName":"Oleg","from":{"x":1,"y":4},"to":{"x":0,"y":5},"promotion":0}}
+{"dt":"20180821133015","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":1,"y":3},"to":{"x":1,"y":4},"promotion":0}}
+{"dt":"20180821133016","t":"PlayerMoveEvent","d":{"playerName":"Oleg","from":{"x":0,"y":5},"to":{"x":1,"y":6},"promotion":0}}
+{"dt":"20180821133021","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":1,"y":4},"to":{"x":1,"y":5},"promotion":0}}
+{"dt":"20180821133022","t":"PlayerMoveEvent","d":{"playerName":"Oleg","from":{"x":1,"y":6},"to":{"x":0,"y":7},"promotion":4}}
+{"dt":"20180821133029","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":1,"y":5},"to":{"x":2,"y":6},"promotion":0}}
+{"dt":"20180821133033","t":"PlayerMoveEvent","d":{"playerName":"Oleg","from":{"x":0,"y":1},"to":{"x":0,"y":3},"promotion":0}}
+{"dt":"20180821133036","t":"PlayerMoveEvent","d":{"playerName":"Akzwar","from":{"x":2,"y":6},"to":{"x":1,"y":7},"promotion":5}}
